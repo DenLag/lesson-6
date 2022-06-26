@@ -9,4 +9,3 @@ class Road:
 
 road_1 = Road(5000, 20)
 print(road_1.mass_calculation())
-#commit for pull request

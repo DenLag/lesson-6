@@ -78,4 +78,3 @@ city_car.stop()
 
 #print(f'{\nCar {city_car} (color {city_color.color})')
 #print(f'{\nCar {police_car} (color {police_car.color})')
-#add_commit
