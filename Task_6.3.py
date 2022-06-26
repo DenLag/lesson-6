@@ -18,4 +18,3 @@ manager = Position("Ivan", "Petrov", "Engineer", 100000, 27000)
 print(manager.get_full_name())
 print(manager.position)
 print(manager.get_full_profit())
-#commit for pull request
